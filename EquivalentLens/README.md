@@ -1,3 +1,3 @@
 # Equivalent lens calculator
 
-See my [blog post](https://underthemath.wordpress.com/2020/05/31/effective-lens/)
+See my [blog post](https://underthemath.wordpress.com/2020/05/31/equivalent-lens-system/)

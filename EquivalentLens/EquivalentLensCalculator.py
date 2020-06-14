@@ -38,7 +38,6 @@ def equivSingleLens(fls,ds):
     db = 0
     for i in range(len(ds)):
         df_temp, feff, db = equivSingleLens_2lenses(feff,db+ds[i],fls[i+1])
-        print(feff)
         df+=df_temp
     
     return {"df":df, "feff":feff,"db":db}

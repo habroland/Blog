@@ -1,2 +1,2 @@
-# Mathematica
-Mathematica code
+# Blog code
+
